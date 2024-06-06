@@ -1,0 +1,18 @@
+export default {
+  FeeToSetter: {
+    mainnet: "0x58fF6775B94845D671A7318beE6399379cfa6637",
+    goerli: "0x129B69C422B3B486E143A595247480360A510a47",
+  },
+  Factory: {
+    mainnet: "0x4ba35f718F8d03e97E4ece6A29724CeeCbdF6E8c",
+    goerli: "0x5e4613e1260a98189730C7CE02F438F00297fD0e",
+  },
+  WETH: {
+    mainnet: "0x4200000000000000000000000000000000000006",
+    goerli: "0x4200000000000000000000000000000000000006",
+  },
+  Router: {
+    mainnet: "",
+    goerli: "0xec441BB424a340a7d5483ccB08a3584Bb1Ef35C9"
+  }
+};
